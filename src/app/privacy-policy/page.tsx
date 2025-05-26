@@ -50,7 +50,7 @@ export default function PrivacyPolicyPage() {
           <h2 className="text-2xl font-semibold text-primary mt-6 mb-3">Entre em Contato</h2>
           <p>Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato conosco:</p>
           <ul className="list-disc pl-6">
-            <li>Por e-mail: contato@ugym.com</li>
+            <li>Por e-mail: projetougymm@gmail.com</li>
           </ul>
           <p className="italic mt-8">Este é um exemplo de texto. Adapte conforme necessário.</p>
         </div>
@@ -59,3 +59,4 @@ export default function PrivacyPolicyPage() {
     </div>
   );
 }
+
