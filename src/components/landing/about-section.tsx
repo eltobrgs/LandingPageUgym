@@ -1,5 +1,5 @@
 import Image from 'next/image';
-
+import LeftImage from '@/assets/images/leftimage.png';
 export function AboutSection() {
   return (
     <section id="about" className="py-16 md:py-24 bg-red-50">
@@ -28,7 +28,7 @@ export function AboutSection() {
           </div>
           <div className="flex justify-center">
              <Image
-              src="https://placehold.co/500x400.png"
+              src={LeftImage}
               alt="Equipe UGym ou conceito de bem-estar"
               width={500}
               height={400}

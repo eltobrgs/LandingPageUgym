@@ -1,12 +1,11 @@
 import Link from 'next/link';
-import { Instagram, Facebook, Youtube, Send } from 'lucide-react'; // Using Send as a generic for TikTok
+import { Instagram, Youtube, Send } from 'lucide-react'; // Using Send as a generic for TikTok
 import { Button } from '@/components/ui/button';
 
 const socialLinks = [
-  { name: 'Instagram', href: 'https://instagram.com', icon: Instagram },
-  { name: 'Facebook', href: 'https://facebook.com', icon: Facebook },
+  { name: 'Instagram', href: 'https://www.instagram.com/ugymm_?igsh=MXB6eHNwZXd1YnljMQ==', icon: Instagram },
   { name: 'YouTube', href: 'https://youtube.com', icon: Youtube },
-  { name: 'TikTok', href: 'https://tiktok.com', icon: Send }, // Placeholder icon
+  { name: 'whatsapp', href: 'https://wa.link/eejnk2', icon: Send }, // Placeholder icon
 ];
 
 export function SocialSection() {

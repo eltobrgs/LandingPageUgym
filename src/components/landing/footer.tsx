@@ -17,7 +17,7 @@ export function Footer() {
           </nav>
           <div className="text-center md:text-right">
             <p className="font-semibold">Entre em Contato:</p>
-            <a href="mailto:contato@ugym.com" className="hover:text-primary transition-colors">contato@ugym.com</a>
+            <a href="mailto:projetougymm@gmail.com" className="hover:text-primary transition-colors">projetougymm@gmail.com</a>
           </div>
         </div>
         <div className="border-t border-background/20 pt-8 text-center">

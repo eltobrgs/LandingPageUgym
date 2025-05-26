@@ -37,7 +37,6 @@ export default function TermsOfUsePage() {
           <ul className="list-disc pl-6">
             <li>Por e-mail: contato@ugym.com</li>
           </ul>
-          <p className="italic mt-8">Este é um exemplo de texto. Adapte conforme necessário.</p>
         </div>
       </main>
       <Footer />

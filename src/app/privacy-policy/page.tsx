@@ -52,7 +52,6 @@ export default function PrivacyPolicyPage() {
           <ul className="list-disc pl-6">
             <li>Por e-mail: projetougymm@gmail.com</li>
           </ul>
-          <p className="italic mt-8">Este é um exemplo de texto. Adapte conforme necessário.</p>
         </div>
       </main>
       <Footer />

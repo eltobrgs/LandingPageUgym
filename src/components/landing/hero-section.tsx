@@ -2,7 +2,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { Button } from '@/components/ui/button';
 import { ArrowRight } from 'lucide-react';
-
+import LeftImage from '@/assets/images/leftimage.png';
 export function HeroSection() {
   return (
     <section id="home" className="bg-gradient-to-br from-background via-red-50 to-red-100 py-20 pt-32 md:pt-40 min-h-screen flex items-center">
@@ -34,7 +34,7 @@ export function HeroSection() {
           </div>
           <div className="flex justify-center">
             <Image
-              src="https://placehold.co/500x550.png"
+              src={LeftImage}
               alt="Mockup do aplicativo UGym"
               width={500}
               height={550}
