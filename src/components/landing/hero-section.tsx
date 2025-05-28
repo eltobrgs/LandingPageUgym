@@ -20,8 +20,8 @@ export function HeroSection() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
               <Button size="lg" className="bg-accent hover:bg-accent/90 text-accent-foreground shadow-lg transition-transform hover:scale-105" asChild>
-                <Link href="#">
-                  Baixar App
+                <Link href="https://ugym-react.vercel.app/">
+                  Baixar APP ou usar como WEB-APP
                   <ArrowRight className="ml-2 h-5 w-5" />
                 </Link>
               </Button>
