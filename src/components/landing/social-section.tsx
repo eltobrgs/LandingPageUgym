@@ -4,7 +4,7 @@ import { Button } from '@/components/ui/button';
 
 const socialLinks = [
   { name: 'Instagram', href: 'https://www.instagram.com/ugymm_?igsh=MXB6eHNwZXd1YnljMQ==', icon: Instagram },
-  { name: 'YouTube', href: 'https://youtube.com', icon: Youtube },
+  { name: 'YouTube', href: 'https://www.youtube.com/@projetougymm', icon: Youtube },
   { name: 'whatsapp', href: 'https://wa.link/eejnk2', icon: Send }, // Placeholder icon
 ];
 

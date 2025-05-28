@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import LeftImage from '@/assets/images/leftimage.png';
+import FitnessStats from '@/assets/SVG/undraw_fitness-stats_uk0g.svg';
 export function AboutSection() {
   return (
     <section id="about" className="py-16 md:py-24 bg-red-50">
@@ -28,7 +28,7 @@ export function AboutSection() {
           </div>
           <div className="flex justify-center">
              <Image
-              src={LeftImage}
+              src={FitnessStats}
               alt="Equipe UGym ou conceito de bem-estar"
               width={500}
               height={400}
